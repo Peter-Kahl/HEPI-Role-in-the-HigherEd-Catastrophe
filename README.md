@@ -43,7 +43,7 @@ Independent Researcher & Advocate for Transparent Governance
 
 Formal Notices (PDF) available for transparency:
 
-- [Formal Notice to Nicholas Hillman](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_N_Hillman_Notice_of_Demands_2025-08-03_RedactedHEPI_N_Hillman_Notice_of_Demands_2025-08-03_Redacted.pdf)
+- [Formal Notice to Nicholas Hillman](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_N_Hillman_Notice_of_Demands_2025-08-03_Redacted.pdf)
 - [Formal Notice to Professor Dame Sally Mapstone](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_Sally_Mapstone_Notice_of_Demands_2025-08-03_Redacted.pdf)
 - [Formal Notice to Professor Dame Helen Wallace](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_Helen_Wallace_Notice_of_Demands_2025-08-03.pdf)
 - [Formal Notice to Sir David Bell](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_David_Bell_Notice_of_Demands_2025-08-03_Redacted.pdf)
