@@ -14,11 +14,11 @@ As I combed through publicly accessible financial statements, trustees’ report
 
 ### Consider these findings:
 
-- Trustees with dual governance roles:⋅⋅
-⋅⋅⋅⋅- Professor Dame Sally Mapstone, Chair of HEPI, simultaneously holds a senior position at Universities UK—raising serious questions about impartiality and independence.⋅⋅
-⋅⋅⋅⋅- Professor Dame Helen Wallace also holds a trusteeship at the Bruges-Natolin UK European Scholarships Fund, adding another explicit layer of potential conflict.⋅⋅
-- Nepotism concerns:⋅⋅
-⋅⋅⋅⋅- Payments explicitly made by HEPI to relatives of its Director, Nicholas Hillman, for research and proofreading, raise fundamental questions about fiduciary compliance and fairness in HEPI’s decision-making processes.⋅⋅
+- Trustees with dual governance roles:
+⋅⋅⋅⋅ - Professor Dame Sally Mapstone, Chair of HEPI, simultaneously holds a senior position at Universities UK—raising serious questions about impartiality and independence.
+⋅⋅⋅⋅ - Professor Dame Helen Wallace also holds a trusteeship at the Bruges-Natolin UK European Scholarships Fund, adding another explicit layer of potential conflict.
+- Nepotism concerns:
+⋅⋅⋅⋅ - Payments explicitly made by HEPI to relatives of its Director, Nicholas Hillman, for research and proofreading, raise fundamental questions about fiduciary compliance and fairness in HEPI’s decision-making processes.
 
 ### Why it matters:
 
