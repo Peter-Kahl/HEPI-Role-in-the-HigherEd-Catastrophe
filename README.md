@@ -5,41 +5,44 @@
 ![alt text](https://github.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/blob/main/investigating_HEPI.jpg?raw=true)
 
 by Peter Kahl; published 3 August 2025\
-updated 4 August
+updated 4 August 2025
 
-It’s remarkable how much you can uncover simply by diving into publicly available information. Today, I set out to learn exactly who and what drives the Higher Education Policy Institute (HEPI), which proudly calls itself ‘_the UK’s only independent think tank devoted to higher education._’
+It’s remarkable how much can be uncovered simply by examining publicly available information. Today, I set out to identify exactly who and what drives the Higher Education Policy Institute (HEPI), which proudly calls itself ‘the UK’s only independent think tank devoted to higher education.’
 
-But how independent is it, really?
+But how independent is HEPI, really?
 
-As I combed through publicly accessible financial statements, trustees’ reports, charity records, and company filings, a worrying web of influence and questionable governance emerged. Beneath HEPI’s polished public persona lies a troubling reality of overlapping fiduciary responsibilities, potential conflicts of interest, and apparent nepotistic practices.
+After carefully reviewing financial statements, trustees’ reports, charity records, and company filings, a worrying network of influence, fiduciary opacity, and questionable governance practices has emerged. Beneath HEPI’s polished public persona lies a troubling reality: overlapping fiduciary responsibilities, potential conflicts of interest, and apparent nepotistic practices.
 
 ### Consider these findings:
 
-- **Trustees with dual governance roles:**
-   - Professor Dame Sally Mapstone, Chair of HEPI, simultaneously holds a senior position at Universities UK—raising serious questions about impartiality and independence.
-   - Professor Dame Helen Wallace also holds a trusteeship at the Bruges-Natolin UK European Scholarships Fund, adding another explicit layer of potential conflict.
-   - Sir David Bell ...
-- **Nepotism concerns:**
-   - Payments explicitly made by HEPI to relatives of its Director, Nicholas Hillman, for research and proofreading, raise fundamental questions about fiduciary compliance and fairness in HEPI’s decision-making processes.
+#### **Trustees with dual governance roles:**
+- Professor Dame Sally Mapstone, Chair of HEPI, simultaneously holds senior leadership roles at Universities UK and serves as Principal of the University of St Andrews—raising serious concerns about impartiality and independence.
+- Professor Dame Helen Wallace serves as a trustee of the Bruges-Natolin UK European Scholarships Fund and maintains involvement with multiple prominent academic bodies, explicitly introducing further potential conflicts of interest.
+- Sir David Bell, trustee at HEPI, concurrently holds positions as Vice-Chancellor and Chief Executive of the University of Sunderland, Pro-Chancellor of the University of Roehampton, Chair of Cambridge University Press, and Non-Executive Director at The Economist. His extensive governance portfolio across higher education, media, and government sectors explicitly generates substantial fiduciary conflicts and transparency concerns.
+- Mary Curnock Cook CBE, trustee at HEPI, concurrently chairs Pearson Education Ltd and the Dyson Institute, serves as Non-Executive Director at the Student Loans Company, and formerly led UCAS as Chief Executive. These overlapping positions raise explicit concerns of conflicts of interest, particularly regarding student finance, admissions policy, and educational technology—areas explicitly within HEPI’s policy-influencing remit.
+- Professor Dame Julia Goodfellow, trustee at HEPI, former President of Universities UK, former Vice-Chancellor of the University of Kent, and currently President of the Royal Society of Biology, continues to hold influential advisory and governance roles in UK higher education and research bodies, explicitly heightening fiduciary accountability and impartiality concerns.
+
+#### **Nepotism concerns:**
+- Payments explicitly made by HEPI to relatives of its Director, Nicholas Hillman, for research and proofreading raise fundamental questions about fiduciary compliance, fairness, and transparency within HEPI’s governance and decision-making processes.
 
 ### Why it matters:
 
-HEPI’s claim of independence comes with an explicit responsibility: transparency. When influential organisations shaping national education policy claim neutrality, their governance practices must withstand scrutiny.
+HEPI’s claim to independence carries an explicit responsibility for transparency and fiduciary integrity. When influential organisations shaping national education policy claim neutrality, their governance practices must explicitly withstand rigorous scrutiny.
 
-To address these issues head-on, I’ve prepared formal legal notices explicitly addressing fiduciary duties, conflicts of interest, transparency standards, data protection compliance, and fairness in governance. Six detailed letters—one to HEPI’s director and five to each trustee individually—are attached below.
+To directly address these issues, I have prepared formal legal notices explicitly addressing fiduciary duties, conflicts of interest, transparency standards, data protection compliance, and governance fairness.
 
-Tomorrow morning, Monday, these letters will be dispatched by registered post, tracked and signed-for—ensuring explicit accountability and transparency in this critical dialogue.
+As of 4 August 2025, the formal letter explicitly demanding disclosure and transparency has been sent only to Sir David Bell (by registered, signed-for, one-day delivery) and published publicly. Formal notices explicitly addressing HEPI’s Director Nicholas Hillman and trustees Professor Dame Sally Mapstone, Professor Dame Helen Wallace, Mary Curnock Cook CBE, and Professor Dame Julia Goodfellow will follow in due course.
 
-I do not undertake this lightly. But as UK higher education faces an unprecedented governance and financial catastrophe, now more than ever we need genuine independence, transparency, and accountability from organisations shaping its future.
+I do not undertake these actions lightly. However, as UK higher education faces unprecedented governance and financial challenges, it is explicitly crucial that institutions claiming to represent the public interest demonstrate genuine independence, transparency, and accountability.
 
-This is a collective fight. Your support, engagement, and amplification matter immensely.
+This explicitly remains a collective fight. Your continued support, informed engagement, and amplification explicitly matter immensely.
 
-Together, we can uphold the principles our education system truly deserves.
+Together, we explicitly uphold the principles our higher education system deserves.
 
 In solidarity,
 
 Peter Kahl\
-Independent Researcher & Advocate for Transparent Governance
+_Independent Researcher & Advocate for Transparent Governance_
 
 ---
 
