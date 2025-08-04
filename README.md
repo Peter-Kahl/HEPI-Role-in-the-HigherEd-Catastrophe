@@ -4,7 +4,8 @@
 
 ![alt text](https://github.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/blob/main/investigating_HEPI.jpg?raw=true)
 
-by Peter Kahl; published 3 August 2025
+by Peter Kahl; published 3 August 2025\
+updated 4 August
 
 It’s remarkable how much you can uncover simply by diving into publicly available information. Today, I set out to learn exactly who and what drives the Higher Education Policy Institute (HEPI), which proudly calls itself ‘_the UK’s only independent think tank devoted to higher education._’
 
@@ -17,6 +18,7 @@ As I combed through publicly accessible financial statements, trustees’ report
 - **Trustees with dual governance roles:**
    - Professor Dame Sally Mapstone, Chair of HEPI, simultaneously holds a senior position at Universities UK—raising serious questions about impartiality and independence.
    - Professor Dame Helen Wallace also holds a trusteeship at the Bruges-Natolin UK European Scholarships Fund, adding another explicit layer of potential conflict.
+   - Sir David Bell ...
 - **Nepotism concerns:**
    - Payments explicitly made by HEPI to relatives of its Director, Nicholas Hillman, for research and proofreading, raise fundamental questions about fiduciary compliance and fairness in HEPI’s decision-making processes.
 
@@ -43,12 +45,12 @@ Independent Researcher & Advocate for Transparent Governance
 
 Formal Notices (PDF) available for transparency:
 
-- [Formal Notice to Nicholas Hillman](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_N_Hillman_Notice_of_Demands_2025-08-03_Redacted.pdf)
-- [Formal Notice to Professor Dame Sally Mapstone](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_Sally_Mapstone_Notice_of_Demands_2025-08-03_Redacted.pdf)
-- [Formal Notice to Professor Dame Helen Wallace](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_Helen_Wallace_Notice_of_Demands_2025-08-03.pdf)
-- [Formal Notice to Sir David Bell](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_David_Bell_Notice_of_Demands_2025-08-03_Redacted.pdf)
-- [Formal Notice to Mary Curnock Cook CBE](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_Mary_Curnock_Cook_Notice_of_Demands_2025-08-03_Redacted.pdf)
-- [Formal Notice to Professor Dame Julia Goodfellow](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_Julia_Goodfellow_Notice_of_Demands_2025-08-03_Redacted.pdf)
+- [Formal Notice to Nicholas Hillman]
+- [Formal Notice to Professor Dame Sally Mapstone]
+- [Formal Notice to Professor Dame Helen Wallace]
+- [Formal Notice to Sir David Bell](https://raw.githubusercontent.com/Peter-Kahl/HEPI-Role-in-the-HigherEd-Catastrophe/master/HEPI_David_Bell_Notice_of_Demands_2025-08-04_Redacted.pdf)
+- [Formal Notice to Mary Curnock Cook CBE]
+- [Formal Notice to Professor Dame Julia Goodfellow]
 
 ---
 
